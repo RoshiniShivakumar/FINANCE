@@ -1,0 +1,2 @@
+
+Amount: 1000, type: savings, balance: 9000, duration: 10 days
